@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "konva": "^2.5.1",
+    "rc-color-picker": "^1.2.6",
     "react": "^16.6.3",
+    "react-color": "^2.14.1",
     "react-dom": "^16.6.3",
+    "react-konva": "^16.6.31",
     "react-scripts": "2.1.1"
   },
   "scripts": {
